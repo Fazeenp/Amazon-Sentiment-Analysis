@@ -8,7 +8,7 @@ The **Amazon Alexa Reviews Sentiment Analysis** project aims to analyze customer
 - **Text Preprocessing**: Implements techniques such as tokenization, stop-word removal, and lemmatization to prepare the text data for analysis.
 - **Sentiment Classification**: Uses machine learning models to classify reviews as positive, negative, or neutral.
 - **Data Visualization**: Generates visualizations to illustrate sentiment distribution and trends over time, providing insights into customer feedback.
-- **User Interface**: (Optional) A simple web interface that allows users to input new reviews and see sentiment predictions.
+- **User Interface**:A simple web interface that allows users to input new reviews and see sentiment predictions.
 
 ## Technologies Used
 - **Programming Languages**: Python
